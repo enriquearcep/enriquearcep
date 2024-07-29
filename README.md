@@ -56,3 +56,6 @@
 - Capacitación y documentación
 - Toma de decisiones
 - Iniciativa y proactividad
+
+## Mis Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=enriquearcep&show_icons=true)
